@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolodumurGruv/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolodumurGruv/testing/issues"
+  },
+  "homepage": "https://github.com/VolodumurGruv/testing#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "node-xlsx": "^0.21.0"
+  }
+}
