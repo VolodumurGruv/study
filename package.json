@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/VolodumurGruv/testing#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-xlsx": "^0.21.0"
+  }
 }
